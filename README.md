@@ -13,15 +13,15 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 
 ## 🚀 Features
 
-- 📁 List of recent files and folders with full paths
-- 🎨 Color-coded entries for easier identification
-- 🖼️ Icons: 📁 for folders, 📝 for files, ❓ for missing entries
-- ✅ Click to open directly
-- 🖱️ Right-click to copy full file/folder path
-- 🔄 Automatically refreshes recent entries
-- 🧩 Lightweight and portable — no installation required
-- 🧠 Custom sort logic — not based on access time only
-- 🪟 Always-on-top support, no clutter like the Windows taskbar
+- List of recent files and folders with full paths
+- Color-coded entries for easier identification
+- Icons: 📁 for folders, 📝 for files, ❓ for missing entries
+- Click to open directly
+- Right-click to copy full file/folder path
+- Automatically refreshes recent entries
+- Lightweight and portable — no installation required
+- Custom sort logic — not based on access time only
+- Always-on-top support, no clutter like the Windows taskbar
 
 ---
 
@@ -44,26 +44,39 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 - IDE: [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads/)
 - Workload: **.NET Desktop Development**
 
-### ✅ Step-by-step to Run the Project
+### Step-by-step to Run the Project
 
-1. **📦 Clone the repository**
+1. **Clone the repository**
     ```bash
     git clone https://github.com/bhaskar6858/GlowDesk--Smart-Highlight
     cd recent-launcher
     ```
 
-2. **🔨 Open the project in Visual Studio**
+2. **Open the project in Visual Studio**
     - Launch **Visual Studio**
     - Go to `File` → `Open` → `Project/Solution`
     - Open `Glowdesk.sln`
 
-3. **🛠️ If prompted, install the required workload**
+3. **If prompted, install the required workload**
     - Select **.NET Desktop Development** (this includes Windows Forms support)
     - You can also install this via **Visual Studio Installer** → Modify → Check **.NET Desktop Development**
 
-4. **▶️ Build and Run**
+4. **▶ Build and Run**
     - Press `F5` or click `Start` (green play button)
     - The app window will appear with a list of recent item
+
+5. **Project Structue**
+   GlowDesk/
+│
+├── Form1.cs              # Main form logic
+├── Form1.Designer.cs     # Drag/drop layout and component UI
+├── Form1.resx            # Resources for the form (icons, fonts, etc.)
+├── Program.cs            # Main program entry point
+├── GlowDesk.csproj       # Project file
+├── GlowDesk.sln          # Visual Studio solution (you need to run this file after cloning)
+├── LICENSE               # MIT License (Open Source)
+└── README.md             # You’re reading it!
+
 
 
 ---
