@@ -11,7 +11,7 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 
 ---
 
-## 🚀 Features
+## Features
 
 - List of recent files and folders with full paths
 - Color-coded entries for easier identification
@@ -25,7 +25,7 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 
 ---
 
-## 💡 Why is this better than the Windows taskbar?
+## Why is this better than the Windows taskbar?
 
 | Feature | Windows Taskbar | This App |
 |--------|------------------|----------|
@@ -37,7 +37,7 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 
 ---
 
-## 🔧 Installation & Setup Instructions
+## Installation & Setup Instructions
 
 ### 🖥️ Requirements
 - OS: Windows 10 or 11
@@ -66,7 +66,7 @@ Windows Task Bar never allows you give a custom diretory and track recently used
     - The app window will appear with a list of recent item
 ---
 
-## ✨ Screenshots
+##  Screenshots
 
 <img width="522" alt="Screenshot 2025-05-18 at 3 35 26 PM" src="https://github.com/user-attachments/assets/640610f1-0e92-48ff-b7f1-bb659bb24525" />
 
