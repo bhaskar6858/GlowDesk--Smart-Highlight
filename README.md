@@ -64,22 +64,6 @@ Windows Task Bar never allows you give a custom diretory and track recently used
 4. **▶ Build and Run**
     - Press `F5` or click `Start` (green play button)
     - The app window will appear with a list of recent item
-
-5. **Project Structue**
-   
-   GlowDesk/
-│
-├── Form1.cs              # Main form logic
-├── Form1.Designer.cs     # Drag/drop layout and component UI
-├── Form1.resx            # Resources for the form (icons, fonts, etc.)
-├── Program.cs            # Main program entry point
-├── GlowDesk.csproj       # Project file
-├── GlowDesk.sln          # Visual Studio solution (you need to run this file after cloning)
-├── LICENSE               # MIT License (Open Source)
-└── README.md             # You’re reading it!
-
-
-
 ---
 
 ## ✨ Screenshots
