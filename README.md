@@ -66,6 +66,7 @@ Windows Task Bar never allows you give a custom diretory and track recently used
     - The app window will appear with a list of recent item
 
 5. **Project Structue**
+   
    GlowDesk/
 │
 ├── Form1.cs              # Main form logic
